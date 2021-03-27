@@ -1,5 +1,6 @@
 The basic Git workflow goes something like this:
 hi this is newly added.
+once again changing something.
 You modify files in your working tree.
 
 You selectively stage just those changes you want to be part of your next commit, which adds only those changes to the staging area.
