@@ -2,7 +2,7 @@ The basic Git workflow goes something like this:
 hi this is newly added.
 You modify files in your working tree.
 new branch created.
-
+changing somthing here..
 
 You selectively stage just those changes you want to be part of your next commit, which adds only those changes to the staging area.
 
